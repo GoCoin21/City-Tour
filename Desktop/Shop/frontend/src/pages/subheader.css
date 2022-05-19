@@ -1,0 +1,28 @@
+.drop{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: left;
+    border: 1px solid #000;
+    border-radius: 3px;
+    width : 100px;
+    height:  40px;
+    font-size: 18px;
+}
+.link{
+  border: 1px solid #000;
+  background-color: #000;
+  color : #fff;
+  text-decoration: none;
+    
+ 
+}
+.link:hover{
+    background-color:forestgreen;
+}
+.dropdown{
+    display: grid;
+    grid-template-columns: repeat(1,2fr);
+}

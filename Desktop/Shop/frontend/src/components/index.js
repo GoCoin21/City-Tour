@@ -1,0 +1,12 @@
+export {default as Header} from "./header/index";
+export {default as SubHeader} from "./subheader/index";
+export {default as Cart} from "./cart/index";
+export {default as Mail} from "./mail/index";
+export {default as Info} from "./info/index";
+export {default as Footer} from "./footer/index";
+export {default as Register} from "./register/index";
+export {default as Shop} from "./shop/index";
+export {default as Product} from "./product/index";
+export {default as Payment} from "./payment/index";
+export {default as Shipping} from "./shipping/index";
+export {default as PlaceOrder} from "./placeorder/index";
